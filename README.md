@@ -1,1 +1,1 @@
-"# QA-Training" 
+# QA-Training
